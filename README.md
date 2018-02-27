@@ -1,1 +1,1 @@
-Api Platform for test purposes only
+Api Platform for test purposes only!
